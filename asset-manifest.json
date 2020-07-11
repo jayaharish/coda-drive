@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coda-drive/static/css/main.22733d34.chunk.css",
+    "main.js": "/coda-drive/static/js/main.75136dce.chunk.js",
+    "main.js.map": "/coda-drive/static/js/main.75136dce.chunk.js.map",
+    "runtime-main.js": "/coda-drive/static/js/runtime-main.d497bd84.js",
+    "runtime-main.js.map": "/coda-drive/static/js/runtime-main.d497bd84.js.map",
+    "static/js/2.d042e762.chunk.js": "/coda-drive/static/js/2.d042e762.chunk.js",
+    "static/js/2.d042e762.chunk.js.map": "/coda-drive/static/js/2.d042e762.chunk.js.map",
+    "index.html": "/coda-drive/index.html",
+    "precache-manifest.a6181736e5748138c9a10720addcf70a.js": "/coda-drive/precache-manifest.a6181736e5748138c9a10720addcf70a.js",
+    "service-worker.js": "/coda-drive/service-worker.js",
+    "static/css/main.22733d34.chunk.css.map": "/coda-drive/static/css/main.22733d34.chunk.css.map",
+    "static/js/2.d042e762.chunk.js.LICENSE.txt": "/coda-drive/static/js/2.d042e762.chunk.js.LICENSE.txt",
+    "static/media/product.png": "/coda-drive/static/media/product.bb555731.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d497bd84.js",
+    "static/js/2.d042e762.chunk.js",
+    "static/css/main.22733d34.chunk.css",
+    "static/js/main.75136dce.chunk.js"
+  ]
+}
